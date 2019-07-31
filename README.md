@@ -1,6 +1,6 @@
 # PyTrace_Weekend
 
-![image2](./PyTrace_Next_Week/references/random_spheres.png)
+![image2](./references/random_spheres.png)
 
 A (nearly) pure Ray Tracing Project for Python
 
