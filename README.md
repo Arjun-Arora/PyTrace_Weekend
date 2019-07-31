@@ -86,6 +86,19 @@ avg:  307.16 it/s
 
 time: 00:52:01 
 
+### W/ random scene: 
+100 spp
+
+1200 x 800
+
+3 Large spheres + random spheres
+
+Standard implmentation w/PyPy
+
+avg: 952/75 it/s 
+
+time: 00:16:47
+
 ### W/ random scene:
 64 spp
 
