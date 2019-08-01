@@ -6,7 +6,6 @@ A (nearly) pure Ray Tracing Project for Python
 
 This work is based off the books **[Ray Tracing in One Weekend](https://github.com/RayTracing/raytracinginoneweekend)** but ported to python 
 
-#### To run, simply run pypy3 main.py or python main.py
 
 dependencies include: 
 1. pypy3 (note all other dependencies must be installed within pypy3)
